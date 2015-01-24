@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="DroudInvaders">
+    <output-path>$PROJECT_DIR$/out/artifacts/DroudInvaders</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+        <option name="proGuardCfgFiles">
+          <list>
+            <option value="file://C:/Program Files/Java/jdk1.7.0_71/tools/proguard/proguard-android.txt" />
+          </list>
+        </option>
+      </options>
+    </properties>
+    <root id="archive" name="DroudInvaders.apk">
+      <element id="android-final-package" facet="DroudInvaders/android/Android" />
+    </root>
+  </artifact>
+</component>
