@@ -9,7 +9,7 @@ import javax.microedition.khronos.opengles.GL10;
 /**
  * Created by Aleksei on 22.01.14.
  */
-public class DroidInvaders extends GLGame {
+public class Invaders extends GLGame {
 
     boolean firstTimeCreate = true;
 
