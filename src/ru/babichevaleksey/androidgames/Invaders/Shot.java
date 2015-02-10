@@ -1,7 +1,6 @@
-package ru.babichevaleksey.androidgames.DroudInvaders;
+package ru.babichevaleksey.androidgames.Invaders;
 
 import ru.babichevaleksey.androidgames.framework.math.DynamicGameObject3D;
-import ru.babichevaleksey.androidgames.framework.math.Sphere;
 
 /**
  * Created by Aleksei on 26.01.14.

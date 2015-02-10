@@ -50,7 +50,7 @@ public class GLGame extends Activity implements Game, GLSurfaceView.Renderer {
         fileIO = new AndroidFileIO(getAssets());
         audio = new AndroidAudio(this);
         input = new AndroidInput(this, glView, 1, 1);
-        PowerManager powerManager = (PowerManager) getSystemService(Context.POWER_SERVICE);
+//        PowerManager powerManager = (PowerManager) getSystemService(Context.POWER_SERVICE);
 //        wakeLock  = powerManager.newWakeLock(PowerManager.FULL_WAKE_LOCK, "GLGame");
     }
 

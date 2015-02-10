@@ -1,8 +1,7 @@
-package ru.babichevaleksey.androidgames.DroudInvaders;
+package ru.babichevaleksey.androidgames.Invaders;
 
 import ru.babichevaleksey.androidgames.framework.Game;
 import ru.babichevaleksey.androidgames.framework.Input;
-import ru.babichevaleksey.androidgames.framework.Screen;
 import ru.babichevaleksey.androidgames.framework.gl.Camera2D;
 import ru.babichevaleksey.androidgames.framework.gl.SpriteBatcher;
 import ru.babichevaleksey.androidgames.framework.impl.GLScreen;

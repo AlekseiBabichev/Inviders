@@ -1,4 +1,4 @@
-package ru.babichevaleksey.androidgames.DroudInvaders;
+package ru.babichevaleksey.androidgames.Invaders;
 
 import ru.babichevaleksey.androidgames.framework.gl.*;
 import ru.babichevaleksey.androidgames.framework.impl.GLGraphics;

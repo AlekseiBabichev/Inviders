@@ -1,12 +1,10 @@
-package ru.babichevaleksey.androidgames.DroudInvaders;
+package ru.babichevaleksey.androidgames.Invaders;
 
 import ru.babichevaleksey.androidgames.framework.Font;
 import ru.babichevaleksey.androidgames.framework.Music;
 import ru.babichevaleksey.androidgames.framework.Sound;
 import ru.babichevaleksey.androidgames.framework.gl.*;
 import ru.babichevaleksey.androidgames.framework.impl.GLGame;
-
-import javax.microedition.khronos.opengles.GL10;
 
 /**
  * Created by Aleksei on 22.01.14.
